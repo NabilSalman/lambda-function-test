@@ -1,0 +1,20 @@
+{
+  "name": "lambda-function-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.109",
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.11.18",
+    "@vercel/ncc": "^0.36.0"
+  }
+}
